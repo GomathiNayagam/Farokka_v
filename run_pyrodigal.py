@@ -27,6 +27,6 @@ def run_pyrodiga_gv(filepath_in, out_dir, coding_table, meta=True):
 # Example usage:
 fasta_file_path = "/path/to/your/input.fasta"
 output_directory = "/path/to/your/output"
-coding_table_value = 11
+coding_table_value = 15
 
 run_pyrodiga_gv(fasta_file_path, output_directory, coding_table_value)
